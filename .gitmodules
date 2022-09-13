@@ -1,0 +1,9 @@
+[submodule "bubo_template/bubo_template/libs/bubo"]
+	path = bubo_template/bubo_template/libs/bubo
+	url = https://github.com/the-man-with-a-golden-mind/bubo
+[submodule "bubo_template/bubo_template/libs/cmd"]
+	path = bubo_template/bubo_template/libs/cmd
+	url = https://github.com/the-man-with-a-golden-mind/cmd
+[submodule "bubo_template/bubo_template/libs/parsers"]
+	path = bubo_template/bubo_template/libs/parsers
+	url = https://github.com/the-man-with-a-golden-mind/parsers
