@@ -1,0 +1,10 @@
+
+{
+  "name": "bubo_template",
+  "author": "<your_name>",
+  "license": "MIT",
+  "deps": [
+    "https://github.com/the-man-with-a-golden-mind/bubo"
+  ]
+}
+  
